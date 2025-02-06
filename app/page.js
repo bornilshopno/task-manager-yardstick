@@ -1,6 +1,6 @@
 
 
-export default function Home({children}) {
+export default function Home() {
   return (
     <div>
   hellow World
